@@ -1,0 +1,18 @@
+.hW{
+    font-size: 25px;
+    width: 100%;
+    padding: 15px;
+    margin: 0px;
+}
+#note{
+    font-size: 20px;
+    color: black;
+}
+.image{
+    border-radius: 10px;
+    width: 200px;
+}
+
+#SongName-Label{
+    margin-top: 55px;
+}
