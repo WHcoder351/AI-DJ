@@ -16,3 +16,7 @@
 #SongName-Label{
     margin-top: 55px;
 }
+
+canvas{
+border-radius: 10px;
+}
